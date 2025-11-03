@@ -31,7 +31,7 @@ A **Python-based automation tool** that simplifies and speeds up the process of 
 
 ## 🧑‍💻 About the Author
 **Aditya Mishra**  
-🔹 Beginner Python Developer  
+🔹 Python Developer  
 🔹 Learning AI, Automation, and API Development  
 🔹 Passionate about data and innovation  
 
